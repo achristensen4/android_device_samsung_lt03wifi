@@ -34,7 +34,7 @@ persist.sys.isUsbOtgEnabled=true
 persist.sys.usb.config=mtp
 
 # Radio
-ro.radio.noril=yes
+ro.radio.noril=no
 
 # Randomly from stock
 ro.ril.gprsclass=10
